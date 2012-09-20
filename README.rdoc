@@ -1,1 +1,16 @@
 == ZipFinder.me
+A wrapper for ZipFinder.me Service
+
+== Installation
+
+gem install zipfinder
+
+== Usage
+
+* In your Gemfile you should set:
+
+    gem 'zipfinder'
+
+* Get some zip code
+
+    ZipFinder::Client.get("37713001")

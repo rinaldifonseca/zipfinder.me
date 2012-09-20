@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = Zipfinder::VERSION
   s.authors     = ["Rinaldi Fonseca"]
   s.email       = ["rinaldifonseca@gmail.com"]
-  s.homepage    = ""
+  s.homepage    = "http://zipfinder.me"
   s.summary     = %q{A wrapper for ZipFinder.me Service}
   s.description = %q{A wrapper for ZipFinder.me Service}
 
